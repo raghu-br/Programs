@@ -1,7 +1,7 @@
 //By using standard values consider this program is universal code
 package discount;
 
-public class Discoun1t {
+public class Discount {
 	public static void main(String args[]) {
 
 		double dis, amount, markedprice, s;
